@@ -7,7 +7,7 @@
 ### Chore
 
 
-##  1.3.9-beta
+##  1.3.12-beta
 
 ### Fixes
 
